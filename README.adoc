@@ -1,0 +1,16 @@
+== Spring Boot with Scala
+
+This project is simple sample about how use Spring Boot with scala.
+
+Instead of use maven or gradle, I use sbt (tool for scala) with the necesarie dependencies.
+
+
+=== Run
+
+```
+$ sbt run
+```
+
+```
+localhost:8080/hello
+```
